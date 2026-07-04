@@ -178,3 +178,11 @@ canvas {
   justify-content: center;
   font-size: var(--font-size-medium);
 }
+
+img {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
